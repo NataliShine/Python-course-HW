@@ -126,9 +126,9 @@ else:
 #Homework 3.4
 
 income = float(input('Enter the income: '))
-if income = 400:
+if income == 400:
     tax = (0.15*income)
-if income = 500:
+if income == 500:
     tax = (0.15*income)
 
 #Homework 3.5
